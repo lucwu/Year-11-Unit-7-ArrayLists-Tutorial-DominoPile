@@ -2,6 +2,8 @@
 
 ### __Part 1: Domino__
 
+Lucas Wu
+
 Create a class to represent a single domino.
 
 A domino consists of 2 sides, we'll call them "top" and "bottom". Each side holds an integer representing the number of dots it has.
